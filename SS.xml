@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.DevalBansal.ShuttleShoot"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Shuttle Shoot</name>
+
+  <description>
+      Save space by taking control of the shuttle! Destroy any asteroids and alien invaders that get in your way in this shooter arcade game.
+  </description>
+
+  <author href="https://google.com" email="deval.bansal@gmail.com">
+      Deval Bansal
+  </author>
+
+<icon src="icon.png" />
+
+</widget>
